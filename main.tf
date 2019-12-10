@@ -7,7 +7,7 @@ module "network" {
     subnet_names        = ["subnet1", "subnet2", "subnet3"]
 
     tags                = {
-                            environment = "production"
+                            environment = "non-prod"
                             costcenter  = "it"
                             owner  = "beca"
 
