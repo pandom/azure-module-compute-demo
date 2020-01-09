@@ -9,7 +9,7 @@ module "network" {
     tags                = {
                             environment = "prod"
                             costcenter  = "it"
-                            owner  = "beca"
+                            owner  = "hexaware"
 
                           }
 }
